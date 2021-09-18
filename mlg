@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 DOWNLOAD_RET=0
 MATHLINGUA_JAR=.bin/mathlingua.jar
